@@ -1,0 +1,13 @@
+{
+    "name": "vendor/package",
+    "authors": [
+        {
+            "name": "heremneha",
+            "email": "nehak829.7@gmail.com"
+        }
+    ],
+    "require": {
+       "dompdf/dompdf":"*",
+        "psr/log": "^1.0"
+    }
+}
